@@ -1,0 +1,12 @@
+C:\Users\a1596\Desktop\Shanghai-Disneyland-2-\Shanghai-Disneyland-2-\obj\Debug\Shanghai-Disneyland-2-.csprojAssemblyReference.cache
+C:\Users\a1596\Desktop\Shanghai-Disneyland-2-\Shanghai-Disneyland-2-\obj\Debug\Shanghai_Disneyland_2_.login.resources
+C:\Users\a1596\Desktop\Shanghai-Disneyland-2-\Shanghai-Disneyland-2-\obj\Debug\Shanghai_Disneyland_2_.Properties.Resources.resources
+C:\Users\a1596\Desktop\Shanghai-Disneyland-2-\Shanghai-Disneyland-2-\obj\Debug\Shanghai-Disneyland-2-.csproj.GenerateResource.cache
+C:\Users\a1596\Desktop\Shanghai-Disneyland-2-\Shanghai-Disneyland-2-\obj\Debug\Shanghai-Disneyland-2-.csproj.CoreCompileInputs.cache
+C:\Users\a1596\Desktop\Shanghai-Disneyland-2-\Shanghai-Disneyland-2-\bin\Debug\Shanghai-Disneyland-2-.exe.config
+C:\Users\a1596\Desktop\Shanghai-Disneyland-2-\Shanghai-Disneyland-2-\bin\Debug\Shanghai-Disneyland-2-.exe
+C:\Users\a1596\Desktop\Shanghai-Disneyland-2-\Shanghai-Disneyland-2-\bin\Debug\Shanghai-Disneyland-2-.pdb
+C:\Users\a1596\Desktop\Shanghai-Disneyland-2-\Shanghai-Disneyland-2-\obj\Debug\Shanghai-Disneyland-2-.exe
+C:\Users\a1596\Desktop\Shanghai-Disneyland-2-\Shanghai-Disneyland-2-\obj\Debug\Shanghai-Disneyland-2-.pdb
+C:\Users\a1596\Desktop\Shanghai-Disneyland-2-\Shanghai-Disneyland-2-\obj\Debug\Shanghai_Disneyland_2_.function.signup.resources
+C:\Users\a1596\Desktop\Shanghai-Disneyland-2-\Shanghai-Disneyland-2-\obj\Debug\Shanghai_Disneyland_2_.group.guest.resources
