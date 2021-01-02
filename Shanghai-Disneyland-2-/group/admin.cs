@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Shanghai_Disneyland_2_.function;
 
 namespace Shanghai_Disneyland_2_.group
 {
@@ -23,6 +24,13 @@ namespace Shanghai_Disneyland_2_.group
             var log = new login();
             log.FormClosed += (s, args) => this.Close();
             log.Show();
+        }
+
+        private void admin_Load(object sender, EventArgs e)
+        {
+            ucThemePark uc = new ucThemePark();
+            pl.Controls.Add(uc);
+            uc.BringToFront();
         }
     }
 }

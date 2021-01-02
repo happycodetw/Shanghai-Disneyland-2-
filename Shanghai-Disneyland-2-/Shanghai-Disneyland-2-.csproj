@@ -52,6 +52,12 @@
     <Compile Include="function\signup.Designer.cs">
       <DependentUpon>signup.cs</DependentUpon>
     </Compile>
+    <Compile Include="function\ucThemePark.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="function\ucThemePark.Designer.cs">
+      <DependentUpon>ucThemePark.cs</DependentUpon>
+    </Compile>
     <Compile Include="group\admin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -82,6 +88,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="function\signup.resx">
       <DependentUpon>signup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="function\ucThemePark.resx">
+      <DependentUpon>ucThemePark.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="group\admin.resx">
       <DependentUpon>admin.cs</DependentUpon>
